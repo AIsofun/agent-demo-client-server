@@ -63,3 +63,7 @@ uv run python clientHttp.py
 - `统计一下 "hello world foo" 有几个词` → 调用 `word_count`
 
 终端会打印 `[调用工具]` 和 `[工具结果]`，可以看到 Agent 调用工具的完整过程。
+
+---
+
+[返回 AIsofun 项目目录](https://github.com/AIsofun/playground)
